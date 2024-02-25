@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "f937R4Z7w93toFdWDCwsKIV5aYBzsBqT9SOhvFI07DU7weCGxIXiLVXBXTGiHbEC5yXnm6DNIVUB2meKTd5dOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artem\\OneDrive\\Рабочий стол\\Знакомство с языками программирования C#\\2024\\2024.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

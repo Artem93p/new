@@ -1,0 +1,15 @@
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\2024\bin\Debug\net6.0\2024.exe
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\2024\bin\Debug\net6.0\2024.deps.json
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\2024\bin\Debug\net6.0\2024.runtimeconfig.json
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\2024\bin\Debug\net6.0\2024.dll
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\2024\bin\Debug\net6.0\2024.pdb
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\2024\obj\Debug\net6.0\2024.csproj.AssemblyReference.cache
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\2024\obj\Debug\net6.0\2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\2024\obj\Debug\net6.0\2024.AssemblyInfoInputs.cache
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\2024\obj\Debug\net6.0\2024.AssemblyInfo.cs
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\2024\obj\Debug\net6.0\2024.csproj.CoreCompileInputs.cache
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\2024\obj\Debug\net6.0\2024.dll
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\2024\obj\Debug\net6.0\refint\2024.dll
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\2024\obj\Debug\net6.0\2024.pdb
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\2024\obj\Debug\net6.0\2024.genruntimeconfig.cache
+C:\Users\artem\Desktop\Знакомство с языками программирования C#\2024\obj\Debug\net6.0\ref\2024.dll
